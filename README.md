@@ -1,4 +1,4 @@
-# 🎨 Color Sequence Game
+#  Color Sequence Game
 
 > A CLI memory game built in Python where you memorize color sequences against the clock — with progressive difficulty, a countdown timer, and a persistent top-5 leaderboard.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
 1. A sequence of colors appears on screen
 2. You have a few seconds to memorize it before it disappears
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Difficulty Scaling
+##  Difficulty Scaling
 
 | Rounds | Sequence Length | Time to Memorize | Score Bonus |
 |---|---|---|---|
@@ -30,7 +30,7 @@ Beat round 10 to unlock **Endless Mode** — where the timer drops to 1.5 second
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 ### Prerequisites
 - Python 3.6+
@@ -55,7 +55,7 @@ python SecuenciaColores.py
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 color-sequence-game/
@@ -67,7 +67,7 @@ color-sequence-game/
 
 ---
 
-## 🧠 Features
+##  Features
 
 - **6 colors** — rojo, verde, azul, amarillo, morado, celeste
 - **Countdown timer** — 3-2-1-GO before each sequence
@@ -78,7 +78,7 @@ color-sequence-game/
 
 ---
 
-## 💡 What I Learned Building This
+##  What I Learned Building This
 
 - Dictionary mapping for color-to-ANSI-code translation
 - List manipulation with `shuffle()` and slicing
@@ -89,7 +89,7 @@ color-sequence-game/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Angel Nandayapa**
 AI Automation Engineer · Software Developer
